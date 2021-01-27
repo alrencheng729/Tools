@@ -1,0 +1,7 @@
+# > 愛奇藝台灣站 & iQIYI
+DOMAIN-SUFFIX,iq.com,StreamingiQIYI
+DOMAIN,cache.video.iqiyi.com,StreamingiQIYI
+DOMAIN,cache-video.iq.com,StreamingiQIYI
+DOMAIN,intl.iqiyi.com,StreamingiQIYI
+DOMAIN,intl-rcd.iqiyi.com,StreamingiQIYI
+DOMAIN,intl-subscription.iqiyi.com,StreamingiQIYI

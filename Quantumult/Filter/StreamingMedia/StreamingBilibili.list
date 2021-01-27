@@ -1,0 +1,4 @@
+# > bilibili
+DOMAIN-SUFFIX,biliapi.net,StreamingBilibili
+DOMAIN-SUFFIX,bilibili.com,StreamingBilibili
+DOMAIN,upos-hz-mirrorakam.akamaized.net,StreamingBilibili
